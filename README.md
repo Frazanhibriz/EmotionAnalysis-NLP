@@ -77,7 +77,7 @@ The model shows consistent performance across all emotion classes, indicating go
 ## ⚙️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/YourUsername/EmotionAnalysis-NLP.git
+   git clone https://github.com/Frazanhibriz/EmotionAnalysis-NLP.git
 
 2. Install the required dependencies:
    pip install transformers datasets tensorflow pandas scikit-learn
